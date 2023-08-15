@@ -1,0 +1,79 @@
+# Archivos de proyecto Unity
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+
+# Archivos de autoguardado
+*.swp
+*.bak
+*.tmp
+*.swm
+
+# Scene files
+*.unityproj
+*.fire
+
+# End of line conversion
+*.orig
+
+# Unity generated
+sysinfo.txt
+
+# Unity3D generated meta files
+*.pidb.meta
+*.bak*
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r (Carriage Return)
+Icon
+
+# Files that might appear on external disk
+._*
+
+# Rider IDE
+.idea/
+
+# User-specific
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
